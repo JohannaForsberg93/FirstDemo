@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, Johanna!");
+﻿var name = "Johanna";
+var age = 28;
+var hadBreakfast = true;
+
+Console.WriteLine($"Hello {name}!");
